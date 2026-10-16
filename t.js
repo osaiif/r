@@ -40,7 +40,6 @@ var SHOWS = [
   { title: "Dune: Prophecy",                     imdb: "tt10466872", src: "https://static.tvmaze.com/uploads/images/medium_portrait/543/1358056.jpg",       rating: 3.5  , journalYear: 2025, journalOrder: 27 },
   { title: "Adolescence",                        imdb: "tt31806037", src: "https://static.tvmaze.com/uploads/images/medium_portrait/558/1395109.jpg",       rating: 4.5  , journalYear: 2025, journalOrder: 28 },
   { title: "Through the Darkness",               imdb: "tt15007172", src: "https://static.tvmaze.com/uploads/images/medium_portrait/389/972574.jpg",        rating: 3.5  , journalYear: 2026, journalOrder: 30 },
-  { title: "Silo",                               imdb: "tt14688458",  src: "https://static.tvmaze.com/uploads/images/medium_portrait/631/1577677.jpg",       rating: 4  , journalYear: 2026, journalOrder: 31, seasons: [3] },
   { title: "Succession",                         imdb: "tt7660850",  src: "https://static.tvmaze.com/uploads/images/medium_portrait/453/1134275.jpg",       rating: null, list: "dnf" },
   { title: "West World",                            imdb: "tt0475784",  src: "https://static.tvmaze.com/uploads/images/medium_portrait/445/1113927.jpg",       rating: null, list: "dnf" },
   { title: "Teen Wolf",                          imdb: "tt1567432",  src: "https://static.tvmaze.com/uploads/images/medium_portrait/30/75365.jpg",         rating: null, list: "dnf" },
