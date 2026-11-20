@@ -57,4 +57,5 @@ var SHOWS = [
   { title: "The 8 Show", imdb: "tt30423279", src: "", rating: null, list: "watchlist" },
   { title: "The Penguin", imdb: "tt15435876", src: "", rating: null, list: "watchlist" },
   { title: "Moon Knight", imdb: "tt10234724", src: "", rating: null, list: "watchlist" },
+  { title: "All Her Fault", imdb: "tt31314751", src: "", rating: null, list: "watchlist" },
 ];
