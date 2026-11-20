@@ -63,4 +63,5 @@ var SHOWS = [
   { title: "Gachiakuta", imdb: "tt32612521", src: "", rating: null, list: "watchlist" },
   { title: "BLUE EYE SAMURAI", imdb: "tt13309742", src: "", rating: null, list: "watchlist" },
   { title: "Shōgun", imdb: "tt2788316", src: "", rating: null, list: "watchlist" },
+  { title: "Task", imdb: "tt28013708", src: "", rating: null, list: "watchlist" },
 ];
