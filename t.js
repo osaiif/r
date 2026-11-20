@@ -55,4 +55,5 @@ var SHOWS = [
   { title: "Midnight Mass", imdb: "tt10574558", src: "", rating: null, list: "watchlist" },
   { title: "Your Honor", imdb: "tt7440726", src: "", rating: null, list: "watchlist" },
   { title: "The 8 Show", imdb: "tt30423279", src: "", rating: null, list: "watchlist" },
+  { title: "The Penguin", imdb: "tt15435876", src: "", rating: null, list: "watchlist" },
 ];
