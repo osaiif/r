@@ -61,4 +61,5 @@ var SHOWS = [
   { title: "Frieren: Beyond Journey's End", imdb: "tt22248376", src: "", rating: null, list: "watchlist" },
   { title: "Fullmetal Alchemist: Brotherhood", imdb: "tt1355642", src: "", rating: null, list: "watchlist" },
   { title: "Gachiakuta", imdb: "tt32612521", src: "", rating: null, list: "watchlist" },
+  { title: "BLUE EYE SAMURAI", imdb: "tt13309742", src: "", rating: null, list: "watchlist" },
 ];
