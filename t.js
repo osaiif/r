@@ -60,4 +60,5 @@ var SHOWS = [
   { title: "All Her Fault", imdb: "tt31314751", src: "", rating: null, list: "watchlist" },
   { title: "Frieren: Beyond Journey's End", imdb: "tt22248376", src: "", rating: null, list: "watchlist" },
   { title: "Fullmetal Alchemist: Brotherhood", imdb: "tt1355642", src: "", rating: null, list: "watchlist" },
+  { title: "Gachiakuta", imdb: "tt32612521", src: "", rating: null, list: "watchlist" },
 ];
