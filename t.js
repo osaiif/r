@@ -65,4 +65,5 @@ var SHOWS = [
   { title: "Shōgun", imdb: "tt2788316", src: "", rating: null, list: "watchlist" },
   { title: "Task", imdb: "tt28013708", src: "", rating: null, list: "watchlist" },
   { title: "The Vietnam War", imdb: "tt1877514", src: "", rating: null, list: "watchlist" },
+  { title: "My Hero Academia", imdb: "tt5626028", src: "", rating: null, list: "watchlist" },
 ];
