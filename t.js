@@ -64,4 +64,5 @@ var SHOWS = [
   { title: "BLUE EYE SAMURAI", imdb: "tt13309742", src: "", rating: null, list: "watchlist" },
   { title: "Shōgun", imdb: "tt2788316", src: "", rating: null, list: "watchlist" },
   { title: "Task", imdb: "tt28013708", src: "", rating: null, list: "watchlist" },
+  { title: "The Vietnam War", imdb: "tt1877514", src: "", rating: null, list: "watchlist" },
 ];
