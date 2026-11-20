@@ -54,4 +54,5 @@ var SHOWS = [
   { title: "House of the Dragon", imdb: "tt11198330", src: "https://static.tvmaze.com/uploads/images/medium_portrait/627/1568449.jpg", rating: null, list: "watchlist" },
   { title: "Midnight Mass", imdb: "tt10574558", src: "", rating: null, list: "watchlist" },
   { title: "Your Honor", imdb: "tt7440726", src: "", rating: null, list: "watchlist" },
+  { title: "The 8 Show", imdb: "tt30423279", src: "", rating: null, list: "watchlist" },
 ];
