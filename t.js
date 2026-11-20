@@ -45,7 +45,6 @@ var SHOWS = [
   { title: "Teen Wolf", imdb: "tt1567432", src: "https://static.tvmaze.com/uploads/images/medium_portrait/30/75365.jpg", rating: null, list: "dnf" },
   { title: "Stranger Things", imdb: "tt4574334", src: "https://static.tvmaze.com/uploads/images/medium_untouched/65/163146.jpg", rating: null, list: "dnf" },
   { title: "The Witcher", imdb: "tt5180504", src: "https://static.tvmaze.com/uploads/images/medium_portrait/594/1486674.jpg", rating: null, list: "dnf" },
-  { title: "The Originals", imdb: "tt2632424", src: "https://static.tvmaze.com/uploads/images/medium_portrait/271/678632.jpg", rating: null, list: "dnf" },
   { title: "Vikings: Valhalla", imdb: "tt11311302", src: "https://static.tvmaze.com/uploads/images/medium_portrait/523/1308457.jpg", rating: null, list: "dnf" },
   { title: "11.22.63", imdb: "tt2879552", src: "https://static.tvmaze.com/uploads/images/medium_untouched/63/157660.jpg", rating: null, list: "dnf" },
   { title: "Pluribus", imdb: "tt22202452", src: "https://static.tvmaze.com/uploads/images/medium_portrait/592/1481086.jpg", rating: null, list: "watchlist" },
