@@ -1,1 +1,1 @@
-window.PROFILE_BANNER = "https://image.tmdb.org/t/p/w1280/lodXxP1RCnEesiShHVjTYgd91Tb.jpg";
+window.PROFILE_BANNER = "https://image.tmdb.org/t/p/w1280/eK0M4XVqx3ZuOdmr7zlH3NTf1j5.jpg";
